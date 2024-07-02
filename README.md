@@ -44,7 +44,7 @@ This project was built with
 ### Installation 
 1. Clone this git repo using the below command:
    ```git
-   git clone https://github.com/itsashoffcl/pric.git
+   git clone https://github.com/itsashoffcl/Pric.git
    ```
 2. Navigate to your project directory:
    ```sh
