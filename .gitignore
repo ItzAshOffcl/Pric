@@ -1,0 +1,5 @@
+.git/
+.vscode/
+.firebasesrc
+firebase.json
+.firebase/
